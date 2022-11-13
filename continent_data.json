@@ -1,0 +1,82 @@
+{
+  "results": [
+    {
+      "objectId": "X2rEcTJnsE",
+      "code": "AF",
+      "name": "Africa",
+      "createdAt": "2019-12-09T20:53:12.050Z",
+      "updatedAt": "2019-12-12T16:08:04.299Z",
+      "countries": {
+        "__type": "Relation",
+        "className": "Country"
+      }
+    },
+    {
+      "objectId": "vZNZcahFvu",
+      "code": "NA",
+      "name": "North America",
+      "createdAt": "2019-12-09T20:53:12.050Z",
+      "updatedAt": "2019-12-12T16:08:06.294Z",
+      "countries": {
+        "__type": "Relation",
+        "className": "Country"
+      }
+    },
+    {
+      "objectId": "E6LHZzkHr6",
+      "code": "OC",
+      "name": "Oceania",
+      "createdAt": "2019-12-09T20:53:12.050Z",
+      "updatedAt": "2019-12-12T16:08:07.698Z",
+      "countries": {
+        "__type": "Relation",
+        "className": "Country"
+      }
+    },
+    {
+      "objectId": "xwS5b1G6tn",
+      "code": "AN",
+      "name": "Antarctica",
+      "createdAt": "2019-12-09T20:53:12.050Z",
+      "updatedAt": "2019-12-12T16:08:03.515Z",
+      "countries": {
+        "__type": "Relation",
+        "className": "Country"
+      }
+    },
+    {
+      "objectId": "28HX8qDZHw",
+      "code": "EU",
+      "name": "Europe",
+      "createdAt": "2019-12-09T20:53:12.050Z",
+      "updatedAt": "2019-12-12T16:08:05.613Z",
+      "countries": {
+        "__type": "Relation",
+        "className": "Country"
+      }
+    },
+    {
+      "objectId": "mSxk54vkg6",
+      "code": "AS",
+      "name": "Asia",
+      "createdAt": "2019-12-09T20:53:12.050Z",
+      "updatedAt": "2019-12-12T16:08:04.951Z",
+      "countries": {
+        "__type": "Relation",
+        "className": "Country"
+      }
+    },
+    {
+      "objectId": "ISPUD93Or8",
+      "code": "SA",
+      "name": "South America",
+      "createdAt": "2019-12-09T20:53:12.050Z",
+      "updatedAt": "2019-12-12T16:08:06.884Z",
+      "countries": {
+        "__type": "Relation",
+        "className": "Country"
+      }
+    }
+  ],
+  "count": 7
+}
